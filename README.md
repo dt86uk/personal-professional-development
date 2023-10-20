@@ -6,7 +6,7 @@ To get started, download the repository and navigate to the JSON file in the Rep
 
 Structure:
 - Mission Statement (Parent)
-- - GoalsMe
+- - GoalsMe (your goals)
 - - - Actions
-- - GoalsBoss
+- - GoalsBoss (if anything is required from your superior, it can go in here)
 - - - Actions
