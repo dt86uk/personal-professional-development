@@ -1,0 +1,113 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.progressCircle {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: auto;
+}
+
+.paddingTop10 {
+    padding-top:10px;
+}
+
+.progress10percent {
+    /* 0 - 10 */
+    background: #cf0202;
+}
+
+.progress20percent {
+    /* 11 - 20 */
+    background: #eb6f02;
+}
+
+.progress30percent {
+    /* 21 - 30 */
+    background: #eb8e02;
+}
+
+.progress40percent {
+    /* 31 - 40 */
+    background: #eba502;
+}
+
+.progress50percent {
+    /* 41 - 50 */
+    background: #ebd002;
+}
+
+.progress60percent {
+    /* 51 - 60 */
+    background: #ebeb02;
+}
+
+.progress70percent {
+    /* 60 - 61 */
+    background: #d4eb02;
+}
+
+.progress80percent {
+    /* 71 - 80 */
+    background: #adeb02;
+}
+
+.progress90percent {
+    /* 81 - 90 */
+    background: #86eb02;
+}
+
+.progress100percent {
+    /* 91 - 100 */
+    background: #41d402;
+}
+
+.tableHeaderWidth15 {
+    width:15%;
+}
+
+.tableHeaderWidth30 {
+    width: 30%;
+}
+
+.tableHeaderWidth80 {
+    width: 80%;
+}
+
+.tableHeaderWidth10 {
+    width: 10%;
+}
+
+.tableHeaderWidth8 {
+    width: 8%;
+}
+
+.tableHeaderWidth17 {
+    width: 17%;
+}
+
+.textAlignCenter {
+    text-align: center;
+}
+
+.job-tick {
+    height: 25px;
+    margin-top: 9px;
+    margin-left: 10px;
+}

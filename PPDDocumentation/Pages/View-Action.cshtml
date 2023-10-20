@@ -1,0 +1,34 @@
+﻿@page
+@model ViewActionModel
+@{
+    ViewData["Title"] = $"View Action - {@Model.Action.Title}";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="float-start">
+            <h1>Action: @Model.Action.Title  (@Model.Action.PercentageComplete %)</h1>
+        </div>
+        
+        <div class="float-end p-2">
+            <a asp-page="./view-goal" asp-route-id="@Model.GoalId" class="btn btn-primary btn-success">Return to Goal</a>
+            <a asp-page="./edit-action" asp-route-id="@Model.Action.Id" class="btn btn-primary btn-warning">Edit Action</a>
+            <a asp-page="./index" class="btn btn-success">Back to all Goals</a>
+        </div>    
+    </div>
+</div>
+
+<h3>Description</h3>
+
+<p>
+    @Html.Raw(@Model.Action.Description.Replace(Environment.NewLine, "<br/>"))
+</p>
+
+<hr />
+
+<div class="row">
+    <h4>@Html.LabelFor(m => Model.Action.WhatILearnt)</h4>
+    <p style="white-space: pre-line;">
+        @Model.Action.WhatILearnt
+    </p>
+</div>

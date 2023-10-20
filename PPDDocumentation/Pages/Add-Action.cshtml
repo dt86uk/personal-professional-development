@@ -1,0 +1,65 @@
+﻿@page
+@model PPDDocumentation.Pages.AddActionModel
+@{
+    ViewData["Title"] = "Add Action";
+}
+
+<h1>Add Action</h1>
+
+@if (Model.PageHasErrorMessages)
+{
+    <div class="text-danger"> 
+        The following errors have occured:
+
+        foreach (var item in @Model.ErrorMessages)
+        {
+            <div class="row">
+                @**@
+                <div class="text-danger pb-2">Error: @Model.ErrorMessages</div>
+            </div>
+        }
+    </div>
+}
+
+<form method="post">
+    <input type="hidden" id="hdnGoalId" name="ParentId" value="@Model.GoalId" />
+    <div>
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblTitle" for="txtTitle">Title</label>
+            </div>
+            <div class="col-9">
+                <input type="text" id="txtTitle" class="col-9" name="Title" />
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblDescription" for="txtDescription">Description</label>
+            </div>
+            <div class="col-9">
+                <input type="text" id="txtDescription" class="col-9" name="Description" />
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblPercentageComplete" for="txtPercentageComplete">Percentage Complete</label>
+            </div>
+            <div class="col-9">
+                <input type="text" id="txtPercentageComplete" class="col-9" name="PercentageComplete" />
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblWhatILearnt" for="txtWhatILearnt">What did I learn?</label>
+            </div>
+            <div class="col-9">
+                <textarea id="txtWhatILearnt" class="col-9" style="height:300px;" name="WhatILearnt"></textarea>
+            </div>
+        </div>
+
+        <input id="addAction" class="btn btn-primary" type="submit" value="Add Action" asp-page-handler="AddAction" />
+    </div>
+</form>

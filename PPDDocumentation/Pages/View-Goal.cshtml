@@ -1,0 +1,87 @@
+﻿@page
+@model ViewGoalModel
+@{
+    ViewData["Title"] = $"View Goal - {@Model.Goal.Title}";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="float-start">
+            <h1>Goal: @Model.Goal.Title  (@Model.Goal.PercentageComplete %)</h1>
+        </div>
+        
+        <div class="float-end p-2">
+            <a asp-page="./edit-goal"  asp-route-id="@Model.Goal.Id" class="btn btn-warning">Edit Goal</a>
+            <a asp-page="./add-action"  asp-route-id="@Model.Goal.Id" class="btn btn-success">Add Action</a>
+        </div>    
+    </div>
+</div>
+
+<hr/>
+
+<h3>Description</h3>
+
+<p>
+    @Model.Goal.Description
+</p>
+
+<hr/>
+
+<div>
+    <h3 style="display: inline;">Due By: </h3> 
+    <span style="font-size: 1.75rem; font-weight: lighter;">@string.Format("Q{0}", $"{@Model.Goal.DueBy}")</span>
+</div>
+
+<hr />
+
+<div>
+    <h4>@Html.LabelFor(m => Model.Goal.Actions)</h4>
+    
+    @if (Model.Goal.Actions?.Count > 0)
+    {
+        @foreach (var action in Model.Goal.Actions)
+        {
+            var isLast = action.Id == Model.Goal.Actions.Last().Id;
+
+            <div class="row">
+                <div class="col-2 fw-bold">@Html.LabelFor(m => action.Title)</div>
+                <div class="col-9">@action.Title</div>
+            </div>
+                
+            <div class="row">
+                <div class="col-2 fw-bold">@Html.LabelFor(m => action.Description)</div>
+                <div class="col-9">@action.Description</div>
+            </div>
+
+            <div class="row pb-2">
+                <div class="col-2 fw-bold">@Html.LabelFor(m => action.IsComplete)</div>
+                <div class="col-9">@action.IsComplete</div>
+            </div>
+            
+            <a asp-page="./view-action" asp-route-id="@action.Id" class="btn btn-primary">View Action</a>
+            <a asp-page="./edit-action" asp-route-id="@action.Id" class="btn btn-warning">Edit Action</a>
+            <a asp-page="./delete-action" asp-route-id="@action.Id" class="btn btn-danger">Delete</a>
+
+            @if (!isLast)
+            {
+                <hr/>    
+            }
+        }
+    }
+    else
+    {
+        <div class="row">
+            <div class="col-4 ps-5">N/A</div>
+        </div>
+    }
+
+    <hr />
+
+    <div class="row">
+        <h4>@Html.LabelFor(m => Model.Goal.WhatILearnt)</h4>
+
+        <p style="white-space: pre-line;">
+            @Model.Goal.WhatILearnt
+        </p>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPDDocumentation", "PPDDocumentation\PPDDocumentation.csproj", "{BF4EA0CC-FE2C-4C3B-ADB0-BD589B341A4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PPDDocumentation.UnitTests", "PPDDocumentation.UnitTests\PPDDocumentation.UnitTests.csproj", "{270D270C-FAF1-4F14-AD65-B8D82C15E48E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{115C0D41-4F69-4CC7-ACF1-6BE51F86C707}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4EA0CC-FE2C-4C3B-ADB0-BD589B341A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4EA0CC-FE2C-4C3B-ADB0-BD589B341A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4EA0CC-FE2C-4C3B-ADB0-BD589B341A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4EA0CC-FE2C-4C3B-ADB0-BD589B341A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270D270C-FAF1-4F14-AD65-B8D82C15E48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270D270C-FAF1-4F14-AD65-B8D82C15E48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270D270C-FAF1-4F14-AD65-B8D82C15E48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270D270C-FAF1-4F14-AD65-B8D82C15E48E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0891CF77-8DC0-414B-BF38-D2062A657386}
+	EndGlobalSection
+EndGlobal

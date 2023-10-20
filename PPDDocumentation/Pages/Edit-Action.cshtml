@@ -1,0 +1,56 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model PPDDocumentation.Pages.EditActionModel
+@{
+    ViewData["Title"] = "Edit Action";
+}
+
+<h1>Edit Action</h1>
+
+<form method="post">
+
+    <div>
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblTitle" >Title*</label>
+            </div>
+            <div class="col-9">
+                <input class="col-9" asp-for="EditModel!.Title" />
+                <span asp-validation-for="EditModel!.Title" class="text-danger"></span>
+                <input hidden asp-for="EditModel!.Id" />
+                <input hidden asp-for="EditModel!.ParentId" />
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblDescription" >Description*</label>
+            </div>
+            <div class="col-9">
+                <input class="col-9" asp-for="EditModel!.Description" />
+                <span asp-validation-for="EditModel!.Description" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblPercentageComplete" >Percentage Complete</label>
+            </div>
+            <div class="col-9">
+                <input class="col-9" asp-for="EditModel!.PercentageComplete" />
+                <span asp-validation-for="EditModel!.PercentageComplete" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblWhatILearnt">What did I learn?</label>
+            </div>
+            <div class="col-9">
+                <textarea class="col-9" style="height:300px;" asp-for="EditModel!.WhatILearnt"></textarea>
+            </div>
+        </div>
+
+        <input class="btn btn-primary" type="submit" value="Update Action" />
+    </div>
+</form>

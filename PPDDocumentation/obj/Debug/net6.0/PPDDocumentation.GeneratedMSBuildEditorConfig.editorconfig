@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PPDDocumentation
+build_property.RootNamespace = PPDDocumentation
+build_property.ProjectDir = C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Add-Action.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkLUFjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Add-Goal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkLUdvYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Add-Job.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkLUpvYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Complete-Job.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcGxldGUtSm9iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Delete-Action.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLUFjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Delete-Goal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLUdvYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Edit-Action.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC1BY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Edit-Goal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC1Hb2FsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Edit-Job.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC1Kb2IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Findings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluZGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Incomplete-Job.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5jb21wbGV0ZS1Kb2IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Jobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm9icy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/View-Action.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlldy1BY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/View-Goal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlldy1Hb2FsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/source/repos/PPDDocumentation - Copy/PPDDocumentation/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2j52dm5m4z

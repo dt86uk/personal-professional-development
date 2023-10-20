@@ -1,0 +1,440 @@
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\testhost.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.deps.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.runtimeconfig.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Repository\Goals\0912beeb-e0ce-4519-b89b-e21da010ecd9.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Repository\Jobs\e51a4112-d37e-49b3-b656-406ff51dc703.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.staticwebassets.runtime.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.exe
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.7z
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.bz2
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.gz
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.tar
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.zip
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.docx
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.odt
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.pdf
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.rtf
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.avif
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.bmp
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.dds
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.dib
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.emf
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.exif
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.gif
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.heic
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.heif
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.ico
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.j2c
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jfif
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jp2
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jpc
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jpe
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jpg
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jxr
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.pbm
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.pcx
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.pgm
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.png
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.ppm
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.rle
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.tga
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.tif
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.wdp
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.webp
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.wmp
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\sheet\empty.ods
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\sheet\empty.xlsx
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\slide\empty.odp
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\slide\empty.pptx
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\testhost.exe
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.UnitTests.deps.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.UnitTests.runtimeconfig.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.UnitTests.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\DiffEngine.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Moq.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\Shouldly.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Management.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Reflection.Context.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Threading.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.pdb
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.AssemblyInfo.cs
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.csproj.CopyComplete
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\refint\PPDDocumentation.UnitTests.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.genruntimeconfig.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation.UnitTests\obj\Debug\net6.0\ref\PPDDocumentation.UnitTests.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.7z
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.bz2
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.gz
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.tar
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\archive\empty.zip
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.docx
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.odt
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.pdf
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\document\empty.rtf
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.avif
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.bmp
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.dds
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.dib
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.emf
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.exif
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.gif
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.heic
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.heif
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.ico
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.j2c
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jfif
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jp2
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jpc
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jpe
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jpg
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.jxr
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.pbm
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.pcx
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.pgm
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.png
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.ppm
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.rle
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.tga
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.tif
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.wdp
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.webp
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\image\empty.wmp
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\sheet\empty.ods
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\sheet\empty.xlsx
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\slide\empty.odp
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles\slide\empty.pptx
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\testhost.exe
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\testhost.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.deps.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.runtimeconfig.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Repository\Goals\0912beeb-e0ce-4519-b89b-e21da010ecd9.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Repository\Jobs\e51a4112-d37e-49b3-b656-406ff51dc703.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.staticwebassets.runtime.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.exe
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.UnitTests.deps.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.UnitTests.runtimeconfig.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.UnitTests.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\DiffEngine.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\EmptyFiles.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Moq.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\Shouldly.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Management.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Reflection.Context.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Security.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceModel.Syndication.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Threading.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\bin\Debug\net6.0\PPDDocumentation.pdb
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.AssemblyInfo.cs
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.csproj.CopyComplete
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\refint\PPDDocumentation.UnitTests.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\PPDDocumentation.UnitTests.genruntimeconfig.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation.UnitTests\obj\Debug\net6.0\ref\PPDDocumentation.UnitTests.dll

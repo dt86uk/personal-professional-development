@@ -1,0 +1,71 @@
+{
+  "Id": "0912beeb-e0ce-4519-b89b-e21da010ecd9",
+  "Title": "My Title",
+  "Order": 0,
+  "Description": "My Mission Statement Description; what I want to achieve, overall.",
+  "PercentageComplete": 0,
+  "GoalsMe": [
+    {
+      "id": "63e5a07c-c502-4cd4-8ff3-6ffed5f38af6",
+      "OrderId": 1,
+      "Title": "My Task",
+      "Description": "My Task Description",
+      "DueBy": 3,
+      "PercentageComplete": 100,
+      "ProgressHtml": null,
+      "Actions": [
+        {
+          "id": "7af40b05-b6bc-412e-a676-df7073b23408",
+          "OrderId": 1,
+          "Title": "My Action Title",
+          "Description": "My Action Description",
+          "PercentageComplete": 100,
+          "IsComplete": true,
+          "WhatILearnt": "My Learnings",
+          "IsDeleted": false
+        },
+        {
+          "id": "dfa8298d-fac1-426c-af37-fa2bd19d2761",
+          "OrderId": 2,
+          "Title": "My Action Title 2",
+          "Description": "My Action Description",
+          "PercentageComplete": 50,
+          "IsComplete": true,
+          "WhatILearnt": "My Learnings",
+          "IsDeleted": false
+        }
+      ],
+      "IsComplete": true,
+      "WhatILearnt": "My Learnings",
+      "IsDeleted": false
+    },
+    {
+      "id": "9ae00d14-2b4b-4539-8314-812c37289376",
+      "OrderId": 1,
+      "Title": "My Task 2",
+      "Description": "My Task Description 2",
+      "DueBy": 3,
+      "PercentageComplete": 10,
+      "ProgressHtml": null,
+      "Actions": [
+        {
+          "id": "e34bab57-f642-442e-b761-b8098208225c",
+          "OrderId": 1,
+          "Title": "My Goal 2 Title",
+          "Description": "My Goal 2 Description",
+          "PercentageComplete": 50,
+          "IsComplete": true,
+          "WhatILearnt": "My Learnings 2",
+          "IsDeleted": false
+        }
+      ],
+      "IsComplete": true,
+      "WhatILearnt": "My Learnings 2",
+      "IsDeleted": false
+    }
+  ],
+  "GoalsBoss": null,
+  "WhatILearnt": "What did you learn?",
+  "Attachments": [], //TODO: Not implemented - this was intended for images.
+  "IsDeleted": false
+}

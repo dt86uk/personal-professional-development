@@ -1,0 +1,76 @@
+﻿@page
+@model PPDDocumentation.Pages.JobsModel
+@{
+	ViewData["Title"] = "Jobs";
+}
+
+<div class="row">
+	<div class="col-lg-12">
+		<div class="float-start">
+			<h3>Jobs</h3>
+		</div>
+
+		<div class="float-end p-2">
+			<a asp-page="./add-job" class="btn btn-success">Add Job</a>
+		</div>
+	</div>
+</div>
+
+<p>NOTE: Look at end of year documentation</p>
+
+@if (!string.IsNullOrEmpty(Model.JobResponseMessage))
+{
+    <div class="alert alert-success" role="alert">
+      @Model.JobResponseMessage
+    </div> 
+}
+
+@if (Model.JobUpdated.HasValue && Model.JobUpdated.Value)
+{
+	<div class="alert alert-success" role="alert">
+		Job updated
+	</div>
+}
+
+<div>
+	@foreach (var job in Model.Jobs)
+	{
+		var isComplete = @job.IsComplete ? "Yes" : "No";
+
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="float-start">
+					<h5 class="paddingTop10">@job.Title</h5>
+				</div>
+
+				@if (job.IsComplete)
+				{
+				<div class="float-start">
+					<img src="img/icon-done.png" class="job-tick" />
+				</div>
+				}	
+				
+				<div class="float-end p-2 icon-tick-done">
+					<a asp-page="./edit-job" asp-route-id="@job.Id" class="btn btn-warning">Edit Goal</a>
+					@if (job.IsComplete)
+					{
+						<a asp-page="./incomplete-job" asp-route-id="@job.Id" class="btn btn-danger">Mark as incomplete</a>
+					}
+					else
+					{
+						<a asp-page="./complete-job" asp-route-id="@job.Id" class="btn btn-success">Mark as complete</a>
+					}
+				</div>
+			</div>
+		</div>
+		<div>
+			@job.Description
+		</div>
+		
+		<div class="paddingTop10">
+			Complete: @isComplete
+		</div>
+		
+		<hr/>	
+	}
+</div>

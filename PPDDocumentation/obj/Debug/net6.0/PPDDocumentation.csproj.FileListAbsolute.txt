@@ -1,0 +1,74 @@
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\Repository\Goals\0912beeb-e0ce-4519-b89b-e21da010ecd9.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\Repository\Jobs\e51a4112-d37e-49b3-b656-406ff51dc703.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.staticwebassets.runtime.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.exe
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.deps.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.runtimeconfig.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.pdb
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.AssemblyInfo.cs
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.RazorAssemblyInfo.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.RazorAssemblyInfo.cs
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.PPDDocumentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.build.PPDDocumentation.props
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PPDDocumentation.props
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PPDDocumentation.props
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\scopedcss\bundle\PPDDocumentation.styles.css
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\scopedcss\projectbundle\PPDDocumentation.bundle.scp.css
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.csproj.CopyComplete
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\refint\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.pdb
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.genruntimeconfig.cache
+C:\Users\danie\source\repos\PPDDocumentation\PPDDocumentation\obj\Debug\net6.0\ref\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\Repository\Goals\0912beeb-e0ce-4519-b89b-e21da010ecd9.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\Repository\Jobs\e51a4112-d37e-49b3-b656-406ff51dc703.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.staticwebassets.runtime.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.exe
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.deps.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.runtimeconfig.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\PPDDocumentation.pdb
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.AssemblyInfo.cs
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.RazorAssemblyInfo.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.RazorAssemblyInfo.cs
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.PPDDocumentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.build.PPDDocumentation.props
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PPDDocumentation.props
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PPDDocumentation.props
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\scopedcss\bundle\PPDDocumentation.styles.css
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\scopedcss\projectbundle\PPDDocumentation.bundle.scp.css
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.csproj.CopyComplete
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\refint\PPDDocumentation.dll
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.pdb
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\PPDDocumentation.genruntimeconfig.cache
+C:\Users\danie\source\repos\PPDDocumentation - Copy\PPDDocumentation\obj\Debug\net6.0\ref\PPDDocumentation.dll

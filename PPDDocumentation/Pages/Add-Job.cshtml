@@ -1,0 +1,35 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model PPDDocumentation.Pages.AddJobModel
+@{
+    ViewData["Title"] = "Add Job";
+}
+
+<h1>Add Job</h1>
+
+<form method="post">
+    <div>
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblTitle">Title*</label>
+            </div>
+            <div class="col-9">
+                <input class="col-9" asp-for="NewJob!.Title" />
+                <span asp-validation-for="NewJob!.Title" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row pb-1">
+            <div class="col-2">
+                <label id="lblDescription">Description*</label>
+            </div>
+            <div class="col-9">
+                <input class="col-9" asp-for="NewJob!.Description" />
+                <span asp-validation-for="NewJob!.Description" class="text-danger"></span>
+            </div>
+        </div>
+
+        <input id="addAction" class="btn btn-primary" type="submit" value="Add Job" asp-page-handler="AddJob" />
+    </div>
+</form>
+

@@ -1,0 +1,38 @@
+﻿@page
+@model PPDDocumentation.Pages.FindingsModel
+@{
+    ViewData["Title"] = "Findings";
+}
+
+<h1>Findings</h1>
+
+<h3>
+	OnDelete/HttpDelete Approach
+</h3>
+
+<p> 
+	There is no OnDelete/OnPut in Razor Pages. This is because Razor Pages are directly geared towards web views, 
+	i.e. pages displaying in a browser tab/window. There is no native way in a browser to send DELETE/PUT 
+	requests, so there's no reason to support them. Microsoft prefer a Delete page with OnGet(int id) approach.
+	<br/>
+	Ref: https://learn.microsoft.com/en-us/aspnet/core/data/ef-rp/crud?view=aspnetcore-7.0
+</p>
+
+<h3>
+	.NET Core Validation - 'The value '' is invalid.'
+</h3>
+
+<p> 
+	There was an error that displayed for the "Percentage Complete" property in the Add and Edit pages: "The value '' is invalid."
+</p>
+<p>
+	In order to make the [Required] attribute work, the field needs to be nullable. 
+	After .NET Core 3 validation system changed, Non-nullable parameters are treated as if they have a [Required] attribute. 
+	You get client side validation even if you don't apply the [Required] attribute. 
+	Client side JQuery validation accepts empty strings fields but once sent to server the same field will get the invalid result. 
+	The value '' is invalid is the default error message for server side validation. 
+	According to asp.net docs by using a [Required] attribute you can override this message but it does not apply to empty fields. 
+	Unfortunately this feature generates empty string values ("") for hidden input fields that reference non-nullable int properties (i.e Html.Hiddenfor(m => m.id) would generate "" for the html element.) So out of all the options provided in asp.net docs the safest one is making the property nullable. another good option is changing .NET default message to something else 
+	<br/>
+	Ref: https://stackoverflow.com/questions/43281345/mvc-net-core-model-validation-the-value-is-invalid-error
+</p>
